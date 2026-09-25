@@ -1,3 +1,6 @@
+link Web Directa 
+https://voting-api-yvpr.onrender.com/docs?utm_source=chatgpt.com#/Votes/voting_statistics_votes_statistics_get
+
 # Voting System API
 
 API RESTful desarrollada con Python, FastAPI, SQLAlchemy y PostgreSQL para gestionar votantes, candidatos y votos.
